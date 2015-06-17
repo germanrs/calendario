@@ -1,0 +1,181 @@
+# Amos Batto <amosbatt@yahoo.com>, 2011.
+# Irma <sankaypillo@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-27 21:19-0600\n"
+"PO-Revision-Date: 2011-11-21 05:34+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: Voluntarios Quechua Sugar Camp\n"
+"Language: quz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#  "Calendario"
+#: activity/activity.info:2 calendario.py:35
+msgid "Calendario"
+msgstr "Wata watana"
+
+#  "Importar efemerides"
+#: calendario.py:40
+msgid "Import ephemeris"
+msgstr "Hawamanta fermidesta apachiy"
+
+#  "Calendario"
+#: calendario.py:41
+msgid "Calendar"
+msgstr "Wata watana"
+
+#  "Herramientas"
+#: calendario.py:51
+msgid "Tools"
+msgstr "Llamk'anakuna"
+
+#  "Hoy "
+#: calendario.py:62
+msgid "Today "
+msgstr "Kunan p'unchaw "
+
+#  "Tareas pendientes"
+#: calendario.py:92
+msgid "Pending Tasks"
+msgstr "Ruwanapaq ruwanakuna"
+
+#  "No hay efemérides"
+#: calendario.py:113
+msgid "There are no ephemeris"
+msgstr "Mana ephermis kankuchu"
+
+#  "No hay efemérides importadas"
+#: calendario.py:115
+msgid "There are no ephemeris imported"
+msgstr "Hawamanta ephermis mana kankuchu"
+
+#  "Efemerides diarias"
+#: calendario.py:120
+msgid "Daily Ephemeris"
+msgstr "Sapa p'unchawpi Ephemeris"
+
+#  "No hay frases"
+#: calendario.py:136
+msgid "There are no phrases"
+msgstr "Mana simikuna kankuchu"
+
+#  "No hay frases importadas"
+#: calendario.py:138
+msgid "There are no phrases imported"
+msgstr "Hawamanta rimachaykuna mana kankuchu"
+
+#  "Frase de la semana"
+#: calendario.py:144
+msgid "Phrase of the week"
+msgstr "Qanchischawpa rimachaynin"
+
+#  "Agregar"
+#: calendario.py:156
+msgid "Add new"
+msgstr "Musuqta yapay"
+
+#  "Eliminar"
+#: calendario.py:157
+msgid "Remove"
+msgstr "Chinkachiy"
+
+#  "Importar"
+#: calendario.py:158
+msgid "Import"
+msgstr "Apachimuy"
+
+#  "Modificar"
+#: calendario.py:159
+msgid "Modify"
+msgstr "Allinchay"
+
+#  "Notas"
+#: calendario.py:162
+msgid "Notes"
+msgstr "Willaykuna"
+
+#  "Actividades:"
+#: calendario.py:168
+msgid "Activities:"
+msgstr "Ruwanakuna:"
+
+#  "Matemática"
+#: calendario.py:174
+msgid "Mathematics"
+msgstr "Matemática nisqa"
+
+#  "Geografía"
+#: calendario.py:175
+msgid "Geography"
+msgstr "Teqsimuyumanta"
+
+#  "Ciencias naturales"
+#: calendario.py:176
+msgid "Natural Science"
+msgstr "Pachamanta yachana"
+
+#  "Lengua"
+#: calendario.py:177
+msgid "Language"
+msgstr "Simi"
+
+#  "Sin categoria"
+#: calendario.py:178
+msgid "Without category"
+msgstr "Mana t'aqayuq"
+
+#  "Expandir para mas opciones"
+#: calendario.py:182
+msgid "Expand for options"
+msgstr "Aswan akllanakunapaq hatunyachiy"
+
+#  "Importante"
+#: calendario.py:184
+msgid "Important"
+msgstr "Chaniyuq"
+
+#  "En progreso"
+#: calendario.py:186
+msgid "In Progress"
+msgstr "Ruwachkan"
+
+#  "Completo"
+#: calendario.py:188
+msgid "Completed"
+msgstr "Tukukusqa"
+
+#  "Efemerides"
+#: calendario.py:202
+msgid "Ephemeris"
+msgstr "Efermides"
+
+#  "Frases"
+#: calendario.py:203
+msgid "Phrases"
+msgstr "Rimachaykuna"
+
+#  "Actividad"
+#: calendario.py:421
+msgid "Activity"
+msgstr "Ruwana"
+
+#  "Categoria"
+#: calendario.py:422
+msgid "Category"
+msgstr "T'aqa"
+
+#  "Prioridad"
+#: calendario.py:423
+msgid "Priority"
+msgstr "Ñawparichinapaq"
+
+#  "Estado"
+#: calendario.py:424
+msgid "Status"
+msgstr "Imayna kaynin"

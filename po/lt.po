@@ -1,0 +1,149 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 00:31-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.7.0\n"
+
+#: activity/activity.info:2 calendario.py:35
+msgid "Calendario"
+msgstr ""
+
+#: calendario.py:40
+msgid "Import ephemeris"
+msgstr ""
+
+#: calendario.py:41
+msgid "Calendar"
+msgstr ""
+
+#: calendario.py:51
+msgid "Tools"
+msgstr ""
+
+#: calendario.py:62
+msgid "Today "
+msgstr ""
+
+#: calendario.py:96
+msgid "Pending Tasks"
+msgstr ""
+
+#: calendario.py:119
+msgid "There's not ephemeris"
+msgstr ""
+
+#: calendario.py:121
+msgid "There's not ephemeris imported"
+msgstr ""
+
+#: calendario.py:126
+msgid "Daily Ephemeris"
+msgstr ""
+
+#: calendario.py:142
+msgid "There's not phrases"
+msgstr ""
+
+#: calendario.py:144
+msgid "There's not phrases imported"
+msgstr ""
+
+#: calendario.py:150
+msgid "Phrase of the week"
+msgstr ""
+
+#: calendario.py:162
+msgid "Add new"
+msgstr ""
+
+#: calendario.py:163
+msgid "Remove"
+msgstr ""
+
+#: calendario.py:164
+msgid "Import"
+msgstr ""
+
+#: calendario.py:165
+msgid "Modify"
+msgstr ""
+
+#: calendario.py:168
+msgid "Notes"
+msgstr ""
+
+#: calendario.py:174
+msgid "Activities:"
+msgstr ""
+
+#: calendario.py:181
+msgid "Mathematic"
+msgstr ""
+
+#: calendario.py:182
+msgid "Geography"
+msgstr ""
+
+#: calendario.py:183
+msgid "Natural Science"
+msgstr ""
+
+#: calendario.py:184
+msgid "Language"
+msgstr ""
+
+#: calendario.py:185
+msgid "Without category"
+msgstr ""
+
+#: calendario.py:189
+msgid "Expand for options"
+msgstr ""
+
+#: calendario.py:191
+msgid "Important"
+msgstr ""
+
+#: calendario.py:193
+msgid "In Progress"
+msgstr ""
+
+#: calendario.py:195
+msgid "Completed"
+msgstr ""
+
+#: calendario.py:209
+msgid "Ephemeris"
+msgstr ""
+
+#: calendario.py:210
+msgid "Phrases"
+msgstr ""
+
+#: calendario.py:428
+msgid "Activity"
+msgstr ""
+
+#: calendario.py:429
+msgid "Category"
+msgstr ""
+
+#: calendario.py:430
+msgid "Priority"
+msgstr ""
+
+#: calendario.py:431
+msgid "Status"
+msgstr ""

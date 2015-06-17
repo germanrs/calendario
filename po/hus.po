@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-16 00:31-0400\n"
+"PO-Revision-Date: 2011-08-19 08:08+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hus\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: activity/activity.info:2 calendario.py:35
+msgid "Calendario"
+msgstr "Ajixtalab an tamub"
+
+#: calendario.py:40
+msgid "Import ephemeris"
+msgstr "Ki otsbá an kij xi exbachik"
+
+#: calendario.py:41
+msgid "Calendar"
+msgstr "Ajixtalab an tamub"
+
+#: calendario.py:51
+msgid "Tools"
+msgstr "Eyixtaláb"
+
+#: calendario.py:62
+msgid "Today "
+msgstr "Xowé' "
+
+#: calendario.py:96
+msgid "Pending Tasks"
+msgstr "jilkonenek tojlab"
+
+#: calendario.py:119
+msgid "There's not ephemeris"
+msgstr "Yab wa'ats an kij xi exbadh"
+
+#: calendario.py:121
+msgid "There's not ephemeris imported"
+msgstr "Yab wa'ats an kij xi exbadh xi teje"
+
+#: calendario.py:126
+msgid "Daily Ephemeris"
+msgstr "an kij xi exbadh chudhel"
+
+#: calendario.py:142
+msgid "There's not phrases"
+msgstr "Yab wa'ats i kaw"
+
+#: calendario.py:144
+msgid "There's not phrases imported"
+msgstr "Yab wa'ats an kaw xi teje'"
+
+#: calendario.py:150
+msgid "Phrase of the week"
+msgstr "An kaw in ajumtal an buk a kichaj"
+
+#: calendario.py:162
+msgid "Add new"
+msgstr "Punchiy"
+
+#: calendario.py:163
+msgid "Remove"
+msgstr "Pakuw"
+
+#: calendario.py:164
+msgid "Import"
+msgstr "chi'dhomtalab"
+
+#: calendario.py:165
+msgid "Modify"
+msgstr "ka jalkuy"
+
+#: calendario.py:168
+msgid "Notes"
+msgstr "tsakam dhúchlab"
+
+#: calendario.py:174
+msgid "Activities:"
+msgstr "T'ojlab:"
+
+#: calendario.py:181
+msgid "Mathematics"
+msgstr "Mathematics"
+
+#: calendario.py:182
+msgid "Geography"
+msgstr "Geography"
+
+#: calendario.py:183
+msgid "Natural Science"
+msgstr "Ciencias naturales"
+
+#: calendario.py:184
+msgid "Language"
+msgstr "Lekap"
+
+#: calendario.py:185
+msgid "Without category"
+msgstr "Yab in kwa'al in alwá'"
+
+#: calendario.py:189
+msgid "Expand for options"
+msgstr "Puwedha abal jolat takaxtaláb"
+
+#: calendario.py:191
+msgid "Important"
+msgstr "Exbadh"
+
+#: calendario.py:193
+msgid "In Progress"
+msgstr "In aynal in tsap"
+
+#: calendario.py:195
+msgid "Completed"
+msgstr "Putun"
+
+#: calendario.py:209
+msgid "Ephemeris"
+msgstr "In ajumtal an k'ij"
+
+#: calendario.py:210
+msgid "Phrases"
+msgstr "Tsalap"
+
+#: calendario.py:429
+msgid "Activity"
+msgstr "T'ojláb"
+
+#: calendario.py:430
+msgid "Category"
+msgstr "In alwá'"
+
+#: calendario.py:431
+msgid "Priority"
+msgstr "Lej exbadh"
+
+#: calendario.py:432
+msgid "Status"
+msgstr "Bichow"

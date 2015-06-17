@@ -1,0 +1,184 @@
+# -*- coding: utf-8 -*-
+# Spanish translate
+# Copyright (C) 2010
+# This file is distributed under the same license as the Calendario package.
+# YaderV <yajosev@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: 3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-06 02:18-0500\n"
+"PO-Revision-Date: 2012-03-06 16:18+0200\n"
+"Last-Translator: AlanJAS <alanjas@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset= utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Calendario"
+msgstr "Calendario"
+
+#: calendario.py:53
+msgid "Tools"
+msgstr "Herramientas"
+
+#: calendario.py:54
+msgid "Tasks reminder"
+msgstr "Recordatorio de tareas"
+
+#: calendario.py:55
+msgid "View by"
+msgstr "Visto por"
+
+#: calendario.py:68 calendario.py:115 calendario.py:179
+msgid "Priority"
+msgstr "Prioridad"
+
+#: calendario.py:69 calendario.py:119 calendario.py:179
+msgid "Category"
+msgstr "Categoria"
+
+#: calendario.py:84
+msgid "Filter"
+msgstr "Filtro"
+
+#: calendario.py:103
+msgid "Tasks list"
+msgstr "Lista de tareas"
+
+#: calendario.py:113
+msgid "Options"
+msgstr "Opciones"
+
+#: calendario.py:142
+msgid "Add new"
+msgstr "Agregar"
+
+#: calendario.py:144
+msgid "Remove"
+msgstr "Eliminar"
+
+#: calendario.py:179
+msgid "Tasks"
+msgstr "Tareas"
+
+#: model.py:30 model.py:66
+msgid "Personal"
+msgstr "Personal"
+
+#: model.py:30 model.py:68
+msgid "Work"
+msgstr "Trabajo"
+
+#: model.py:30 model.py:70
+msgid "Study"
+msgstr "Estudio"
+
+#: model.py:31 model.py:76
+msgid "Low"
+msgstr "Bajo"
+
+#: model.py:31 model.py:78
+msgid "Medium"
+msgstr "Medio"
+
+#: model.py:31 model.py:80
+msgid "High"
+msgstr "Alto"
+
+#~ msgid "Import ephemeris"
+#~ msgstr "Importar efemerides"
+
+#~ msgid "Calendar"
+#~ msgstr "Calendario"
+
+#~ msgid "Today "
+#~ msgstr "Hoy "
+
+#~ msgid "Pending Tasks"
+#~ msgstr "Tareas pendientes"
+
+#~ msgid "There are no ephemeris"
+#~ msgstr "No hay efemérides"
+
+#~ msgid "There are no ephemeris imported"
+#~ msgstr "No hay efemérides importadas"
+
+#~ msgid "Daily Ephemeris"
+#~ msgstr "Efemerides diarias"
+
+#~ msgid "There are no phrases"
+#~ msgstr "No hay frases"
+
+#~ msgid "There are no phrases imported"
+#~ msgstr "No hay frases importadas"
+
+#~ msgid "Phrase of the week"
+#~ msgstr "Frase de la semana"
+
+#~ msgid "Import"
+#~ msgstr "Importar"
+
+#~ msgid "Modify"
+#~ msgstr "Modificar"
+
+#~ msgid "Notes"
+#~ msgstr "Notas"
+
+#~ msgid "Activities:"
+#~ msgstr "Actividades:"
+
+#~ msgid "Mathematics"
+#~ msgstr "Matemática"
+
+#~ msgid "Geography"
+#~ msgstr "Geografía"
+
+#~ msgid "Natural Science"
+#~ msgstr "Ciencias naturales"
+
+#~ msgid "Language"
+#~ msgstr "Lengua"
+
+#~ msgid "Without category"
+#~ msgstr "Sin categoria"
+
+#~ msgid "Expand for options"
+#~ msgstr "Expandir para mas opciones"
+
+#~ msgid "Important"
+#~ msgstr "Importante"
+
+#~ msgid "In Progress"
+#~ msgstr "En progreso"
+
+#~ msgid "Completed"
+#~ msgstr "Completo"
+
+#~ msgid "Ephemeris"
+#~ msgstr "Efemerides"
+
+#~ msgid "Phrases"
+#~ msgstr "Frases"
+
+#~ msgid "Activity"
+#~ msgstr "Actividad"
+
+#~ msgid "Status"
+#~ msgstr "Estado"
+
+#~ msgid "Categoty"
+#~ msgstr "Categoría"
+
+#~ msgid "None"
+#~ msgstr "Ninguna"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "Exam"
+#~ msgstr "Examen"

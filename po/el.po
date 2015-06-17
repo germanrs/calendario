@@ -1,0 +1,164 @@
+# -*- coding: utf-8 -*-
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-27 21:19-0600\n"
+"PO-Revision-Date: 2011-09-18 00:14+0200\n"
+"Last-Translator: George <gamvrosi@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: activity/activity.info:2 calendario.py:35
+msgid "Calendario"
+msgstr "Προσωπικό ημερολόγιο"
+
+#: calendario.py:40
+msgid "Import ephemeris"
+msgstr "Εισαγωγή ημεροδείκτη"
+
+#: calendario.py:41
+msgid "Calendar"
+msgstr "Ημερολόγιο"
+
+#: calendario.py:51
+msgid "Tools"
+msgstr "Εργαλεία"
+
+#: calendario.py:62
+msgid "Today "
+msgstr "Σήμερα "
+
+#: calendario.py:92
+msgid "Pending Tasks"
+msgstr "Εκκρεμείς εργασίες"
+
+#: calendario.py:113
+#, fuzzy
+msgid "There are no ephemeris"
+msgstr "Δεν υπάρχει ημεροδείκτης"
+
+#: calendario.py:115
+#, fuzzy
+msgid "There are no ephemeris imported"
+msgstr "Δεν έγινε εισαγωγή ημεροδείκτη"
+
+#: calendario.py:120
+msgid "Daily Ephemeris"
+msgstr "Καθημερινός ημεροδείκτης"
+
+#: calendario.py:136
+#, fuzzy
+msgid "There are no phrases"
+msgstr "Δεν υπάρχουν φράσεις"
+
+#: calendario.py:138
+#, fuzzy
+msgid "There are no phrases imported"
+msgstr "Δεν έγινε εισαγωγή φράσεων"
+
+#: calendario.py:144
+msgid "Phrase of the week"
+msgstr "Φράση της εβδομάδας"
+
+#: calendario.py:156
+msgid "Add new"
+msgstr "Προσθήκη νέου"
+
+#: calendario.py:157
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: calendario.py:158
+msgid "Import"
+msgstr "Εισαγωγή"
+
+#: calendario.py:159
+msgid "Modify"
+msgstr "Τροποποίηση"
+
+#: calendario.py:162
+msgid "Notes"
+msgstr "Σημειώσεις"
+
+#: calendario.py:168
+msgid "Activities:"
+msgstr "Δραστηριότητες:"
+
+#: calendario.py:174
+msgid "Mathematics"
+msgstr "Μαθηματικά"
+
+#: calendario.py:175
+msgid "Geography"
+msgstr "Γεωγραφία"
+
+#: calendario.py:176
+msgid "Natural Science"
+msgstr "Φυσικές επιστήμες"
+
+#: calendario.py:177
+msgid "Language"
+msgstr "Γλώσσα"
+
+#: calendario.py:178
+msgid "Without category"
+msgstr "Χωρίς κατηγορία"
+
+#: calendario.py:182
+msgid "Expand for options"
+msgstr "Ανάπτυξη για επιλογές"
+
+#: calendario.py:184
+msgid "Important"
+msgstr "Σημαντικό"
+
+#: calendario.py:186
+msgid "In Progress"
+msgstr "Σε εξέλιξη"
+
+#: calendario.py:188
+msgid "Completed"
+msgstr "Ολοκληρώθηκε"
+
+#: calendario.py:202
+msgid "Ephemeris"
+msgstr "Ημεροδείκτης"
+
+#: calendario.py:203
+msgid "Phrases"
+msgstr "Φράσεις"
+
+#: calendario.py:421
+msgid "Activity"
+msgstr "Δραστηριότητα"
+
+#: calendario.py:422
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: calendario.py:423
+msgid "Priority"
+msgstr "Προτεραιότητα"
+
+#: calendario.py:424
+msgid "Status"
+msgstr "Κατάσταση"
+
+#~ msgid "None"
+#~ msgstr "Κανένα"
+
+#~ msgid "Normal"
+#~ msgstr "Κανονικό"
+
+#~ msgid "Exam"
+#~ msgstr "Εξέταση"

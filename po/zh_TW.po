@@ -1,0 +1,152 @@
+# -*- coding: utf-8 -*-
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-06 11:21-0600\n"
+"PO-Revision-Date: 2011-06-06 00:39+0200\n"
+"Last-Translator: Yuan Chao <yuanchao@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: activity/activity.info:2
+#: /home/yader/Documentos/calendario/mainline/calendario.py:35
+msgid "Calendario"
+msgstr "日曆"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:40
+msgid "Import ephemeris"
+msgstr "匯入星曆"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:41
+msgid "Calendar"
+msgstr "日曆"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:51
+msgid "Tools"
+msgstr "工具"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:62
+msgid "Today "
+msgstr "今天"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:96
+msgid "Pending Tasks"
+msgstr "待辦事項"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:119
+msgid "There's not ephemeris"
+msgstr "沒有星曆"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:121
+msgid "There's not ephemeris imported"
+msgstr "沒有匯入星曆"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:126
+msgid "Daily Ephemeris"
+msgstr "每日行事曆"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:142
+msgid "There's not phrases"
+msgstr "沒有星盤"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:144
+msgid "There's not phrases imported"
+msgstr "沒有匯入星盤"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:150
+msgid "Phrase of the week"
+msgstr "本週星盤"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:162
+msgid "Add new"
+msgstr "新增"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:163
+msgid "Remove"
+msgstr "移除"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:164
+msgid "Import"
+msgstr "匯入"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:165
+msgid "Modify"
+msgstr "修改"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:168
+msgid "Notes"
+msgstr "註記"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:174
+msgid "Activities:"
+msgstr "活動："
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:181
+msgid "Mathematic"
+msgstr "數學"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:182
+msgid "Geography"
+msgstr "地理"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:183
+msgid "Natural Science"
+msgstr "自然科學"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:184
+msgid "Language"
+msgstr "語文"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:185
+msgid "Without category"
+msgstr "沒有類別"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:189
+msgid "Expand for options"
+msgstr "延伸選項"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:191
+msgid "Important"
+msgstr "重要"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:193
+msgid "In Progress"
+msgstr "進行中"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:195
+msgid "Completed"
+msgstr "已完成"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:209
+msgid "Ephemeris"
+msgstr "星曆"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:210
+msgid "Phrases"
+msgstr "星盤"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:429
+msgid "Activity"
+msgstr "活動"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:430
+msgid "Category"
+msgstr "類別"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:431
+msgid "Priority"
+msgstr "優先順序"
+
+#: /home/yader/Documentos/calendario/mainline/calendario.py:432
+msgid "Status"
+msgstr "狀態"

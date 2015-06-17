@@ -1,0 +1,9 @@
+[Activity]
+name = Calendario
+bundle_id = org.laptop.calendario
+exec = sugar-activity calendario.CalendarioActivity
+icon = icono
+activity_version = 6 
+show_launcher = yes
+mime_types = application/x-calendario
+licence = GPLv3

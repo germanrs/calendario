@@ -1,0 +1,160 @@
+# -*- coding: utf-8 -*-
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-27 21:19-0600\n"
+"PO-Revision-Date: 2011-09-17 09:34+0200\n"
+"Last-Translator: samy boutayeb <s.boutayeb@free.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: activity/activity.info:2 calendario.py:35
+msgid "Calendario"
+msgstr "Calendrier"
+
+#: calendario.py:40
+msgid "Import ephemeris"
+msgstr "Importer l'éphéméride"
+
+#: calendario.py:41
+msgid "Calendar"
+msgstr "Calendrier"
+
+#: calendario.py:51
+msgid "Tools"
+msgstr "Outils"
+
+#: calendario.py:62
+msgid "Today "
+msgstr "Aujourd'hui"
+
+#: calendario.py:92
+msgid "Pending Tasks"
+msgstr "Tâches en attente"
+
+#: calendario.py:113
+msgid "There are no ephemeris"
+msgstr "Aucun éphéméride présent"
+
+#: calendario.py:115
+msgid "There are no ephemeris imported"
+msgstr "Aucun éphéméride importé"
+
+#: calendario.py:120
+msgid "Daily Ephemeris"
+msgstr "Ephéméride journalier"
+
+#: calendario.py:136
+msgid "There are no phrases"
+msgstr "Aucune phrase"
+
+#: calendario.py:138
+msgid "There are no phrases imported"
+msgstr "Aucune phrase importée"
+
+#: calendario.py:144
+msgid "Phrase of the week"
+msgstr "Phrase de la semaine"
+
+#: calendario.py:156
+msgid "Add new"
+msgstr "Ajouter nouveau"
+
+#: calendario.py:157
+msgid "Remove"
+msgstr "Supprimer"
+
+#: calendario.py:158
+msgid "Import"
+msgstr "Importer"
+
+#: calendario.py:159
+msgid "Modify"
+msgstr "Modifier"
+
+#: calendario.py:162
+msgid "Notes"
+msgstr "Notes"
+
+#: calendario.py:168
+msgid "Activities:"
+msgstr "Activités :"
+
+#: calendario.py:174
+msgid "Mathematics"
+msgstr "Mathématiques"
+
+#: calendario.py:175
+msgid "Geography"
+msgstr "Géographie"
+
+#: calendario.py:176
+msgid "Natural Science"
+msgstr "Sciences naturelles"
+
+#: calendario.py:177
+msgid "Language"
+msgstr "Langue"
+
+#: calendario.py:178
+msgid "Without category"
+msgstr "Sans catégorie"
+
+#: calendario.py:182
+msgid "Expand for options"
+msgstr "Développer pour voir les options"
+
+#: calendario.py:184
+msgid "Important"
+msgstr "Important"
+
+#: calendario.py:186
+msgid "In Progress"
+msgstr "En cours"
+
+#: calendario.py:188
+msgid "Completed"
+msgstr "Achevé"
+
+#: calendario.py:202
+msgid "Ephemeris"
+msgstr "Éphéméride"
+
+#: calendario.py:203
+msgid "Phrases"
+msgstr "Phrases"
+
+#: calendario.py:421
+msgid "Activity"
+msgstr "Activité"
+
+#: calendario.py:422
+msgid "Category"
+msgstr "Catégorie"
+
+#: calendario.py:423
+msgid "Priority"
+msgstr "Priorité"
+
+#: calendario.py:424
+msgid "Status"
+msgstr "Statut"
+
+#~ msgid "None"
+#~ msgstr "Aucun"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "Exam"
+#~ msgstr "Examen"
