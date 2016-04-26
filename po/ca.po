@@ -1,128 +1,92 @@
-# -*- coding: utf-8 -*-
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#, fuzzy
+# Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>, 2016.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-03-07 09:43-0600\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-06 02:18-0500\n"
+"PO-Revision-Date: 2016-04-26 07:56+0000\n"
+"Last-Translator: Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1461657376.000000\n"
 
 #: activity/activity.info:2
-#: /home/yader/Documentos/calendario/mainline/calendario.py:34
 msgid "Calendario"
-msgstr ""
+msgstr "Calendari"
 
-#: /home/yader/Documentos/calendario/mainline/calendario.py:39
-msgid "Import ephemeris"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:40
-msgid "Calendar"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:50
+#: calendario.py:53
 msgid "Tools"
-msgstr ""
+msgstr "Eines"
 
-#: /home/yader/Documentos/calendario/mainline/calendario.py:61
-msgid "Today "
-msgstr ""
+#: calendario.py:54
+msgid "Tasks reminder"
+msgstr "Recordatori de tasques"
 
-#: /home/yader/Documentos/calendario/mainline/calendario.py:101
-msgid "There's not ephemeris"
-msgstr ""
+#: calendario.py:55
+msgid "View by"
+msgstr "Visualitza per"
 
-#: /home/yader/Documentos/calendario/mainline/calendario.py:103
-msgid "There's not ephemeris imported"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:108
-msgid "Daily Ephemeris"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:122
-msgid "Phrase of the week"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:134
-msgid "Add new"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:135
-msgid "Remove"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:136
-msgid "Import"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:137
-msgid "Modify"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:140
-msgid "Notes"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:145
-msgid "Activities:"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:151
-msgid "Mathematic"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:152
-msgid "Geography"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:153
-msgid "Natural Science"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:154
-msgid "Language"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:155
-msgid "Without category"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:159
-msgid "Expand for options"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:161
-msgid "Important"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:163
-msgid "In Progress"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:395
-msgid "Activity"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:396
-msgid "Category"
-msgstr ""
-
-#: /home/yader/Documentos/calendario/mainline/calendario.py:397
+#: calendario.py:68 calendario.py:115 calendario.py:179
 msgid "Priority"
-msgstr ""
+msgstr "Prioritat"
 
-#: /home/yader/Documentos/calendario/mainline/calendario.py:398
-msgid "Status"
-msgstr ""
+#: calendario.py:69 calendario.py:119 calendario.py:179
+msgid "Category"
+msgstr "Categoria"
+
+#: calendario.py:84
+msgid "Filter"
+msgstr "Filtra"
+
+#: calendario.py:103
+msgid "Tasks list"
+msgstr "Llista de tasques"
+
+#: calendario.py:113
+msgid "Options"
+msgstr "Opcions"
+
+#: calendario.py:142
+msgid "Add new"
+msgstr "Afegeix-ne una de nova"
+
+#: calendario.py:144
+msgid "Remove"
+msgstr "Suprimeix"
+
+#: calendario.py:179
+msgid "Tasks"
+msgstr "Tasques"
+
+#: model.py:30 model.py:66
+msgid "Personal"
+msgstr "Personal"
+
+#: model.py:30 model.py:68
+msgid "Work"
+msgstr "Feina"
+
+#: model.py:30 model.py:70
+msgid "Study"
+msgstr "Estudis"
+
+#: model.py:31 model.py:76
+msgid "Low"
+msgstr "Baixa"
+
+#: model.py:31 model.py:78
+msgid "Medium"
+msgstr "Mitjana"
+
+#: model.py:31 model.py:80
+msgid "High"
+msgstr "Alta"
